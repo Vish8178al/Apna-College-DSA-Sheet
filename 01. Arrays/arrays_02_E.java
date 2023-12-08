@@ -1,7 +1,6 @@
 //array - problem:02 - EASY
 //Recursive Java Program to reverse an array 
 
-import java.io.*; 
 class arrays_02_E { 
 	static void rvereseArray(int arr[], int start, int end) 
 	{ 
